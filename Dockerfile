@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:20:1
 
 RUN npm install -g npm@9.1.3
 
